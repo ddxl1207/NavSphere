@@ -32,6 +32,14 @@
           "description": "宏鹏聚合AI系统",
           "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
           "enabled": true
+        },
+        {
+          "id": "1762014483247",
+          "title": "N8N自动化系统",
+          "href": "https://n8n-wrbanwfu.ap-northeast-1.clawcloudrun.com/signin?redirect=%252Fworkflow%252Fnew",
+          "description": "N8N，万物皆可自动化",
+          "icon": "/assets/favicon_1762014500077.ico",
+          "enabled": true
         }
       ],
       "subCategories": []

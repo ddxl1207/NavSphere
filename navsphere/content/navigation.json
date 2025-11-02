@@ -6,7 +6,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1762105488433",
+          "title": "Ai外呼系统",
+          "href": "https://airobot.yuyinzhineng.com/login",
+          "description": "宏鹏Ai外呼系统",
+          "icon": "https://youke1.picui.cn/s1/2025/11/03/690798c3e3a3d.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {

@@ -48,6 +48,14 @@
           "description": "宏鹏公众号AI全自动化矩阵平台（商户端）",
           "icon": "https://youke1.picui.cn/s1/2025/11/03/69079a1f544d9.png",
           "enabled": true
+        },
+        {
+          "id": "1762107289557",
+          "title": "宏鹏智能广告投放系统（后台）",
+          "href": "https://txgg2.aijzdi.com/admin/login",
+          "description": "宏鹏全域智能广告投放系统（后台）",
+          "icon": "https://youke1.picui.cn/s1/2025/11/03/69079fa500171.png",
+          "enabled": true
         }
       ],
       "subCategories": []

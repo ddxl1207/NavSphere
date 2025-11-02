@@ -74,6 +74,14 @@
           "description": "N8N，万物皆可自动化",
           "icon": "https://youke1.picui.cn/s1/2025/11/02/690634dfabec9.png",
           "enabled": true
+        },
+        {
+          "id": "1762106041635",
+          "title": "宏鹏AI写作系统（后台）",
+          "href": "https://write2.aijzdi.com/admin/login",
+          "description": "宏鹏AI写作（小说）系统商业版（后台）",
+          "icon": "https://youke1.picui.cn/s1/2025/11/03/69079a1f544d9.png",
+          "enabled": true
         }
       ],
       "subCategories": []

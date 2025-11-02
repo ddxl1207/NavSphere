@@ -82,6 +82,14 @@
           "description": "宏鹏AI写作（小说）系统商业版（后台）",
           "icon": "https://youke1.picui.cn/s1/2025/11/03/69079a1f544d9.png",
           "enabled": true
+        },
+        {
+          "id": "1762106939573",
+          "title": "宏鹏AI写作系统（商家端）",
+          "href": "https://write2.aijzdi.com/shop/#/login?redirect=/novel/worddashboard",
+          "description": "宏鹏AI写作（小说）系统（商家端）",
+          "icon": "https://youke1.picui.cn/s1/2025/11/03/69079a1f544d9.png",
+          "enabled": true
         }
       ],
       "subCategories": []

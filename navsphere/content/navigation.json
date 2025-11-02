@@ -64,6 +64,14 @@
           "description": "宏鹏全域智能广告投放系统（商户端）",
           "icon": "https://youke1.picui.cn/s1/2025/11/03/69079fa500171.png",
           "enabled": true
+        },
+        {
+          "id": "1762107628621",
+          "title": "宏鹏GEO推广系统（后台）",
+          "href": "https://geo2.aijzdi.com/admin/login",
+          "description": "在大模型回答里显示你的商品/门店信息，让你的商品/门店面向所有使用大模型的人",
+          "icon": "https://youke1.picui.cn/s1/2025/11/03/69079a1f544d9.png",
+          "enabled": true
         }
       ],
       "subCategories": []

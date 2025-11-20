@@ -138,6 +138,14 @@
           "description": "宏鹏AI写作（小说）系统（商户端）",
           "icon": "https://youke1.picui.cn/s1/2025/11/03/69079a1f544d9.png",
           "enabled": true
+        },
+        {
+          "id": "1763655072997",
+          "title": "new-api",
+          "href": "http://49.235.29.35:3000/",
+          "description": "api聚合系统",
+          "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
+          "enabled": true
         }
       ],
       "subCategories": []

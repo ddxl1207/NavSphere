@@ -262,6 +262,14 @@
           "description": "",
           "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
           "enabled": true
+        },
+        {
+          "id": "1763657162937",
+          "title": "思迅云后台",
+          "href": "http://client.siss.cloud/login",
+          "description": "",
+          "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
+          "enabled": true
         }
       ],
       "subCategories": []

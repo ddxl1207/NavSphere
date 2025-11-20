@@ -30,6 +30,14 @@
           "description": "宏鹏cordysCRM系统",
           "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
           "enabled": true
+        },
+        {
+          "id": "1763654983009",
+          "title": "SQLBot",
+          "href": "http://49.235.29.35:8000/#/chat/index",
+          "description": "SQLBot智能问数系统",
+          "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
+          "enabled": true
         }
       ],
       "subCategories": []

@@ -132,7 +132,16 @@
       "icon": "LayoutList",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1763654760335",
+          "title": "导航站后台",
+          "href": "https://navsphere-96i.pages.dev/auth/signin?callbackUrl=https%3A%2F%2Fhongpeng.ggff.net%2Fadmin",
+          "description": "宏鹏导航站后台",
+          "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]

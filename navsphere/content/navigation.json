@@ -146,6 +146,14 @@
           "description": "api聚合系统",
           "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
           "enabled": true
+        },
+        {
+          "id": "1763655104164",
+          "title": "MCP聚合系统",
+          "href": "img.u1708900.nyat.app:20017",
+          "description": "MCP聚合系统",
+          "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
+          "enabled": true
         }
       ],
       "subCategories": []

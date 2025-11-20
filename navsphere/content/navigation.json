@@ -38,6 +38,14 @@
           "description": "SQLBot智能问数系统",
           "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
           "enabled": true
+        },
+        {
+          "id": "1763656301509",
+          "title": "贷超表单落地页",
+          "href": "http://h5.xingyijinfu.cn/#home?invite=uc2u3c",
+          "description": "宏鹏贷超系统表单风控落地页",
+          "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
+          "enabled": true
         }
       ],
       "subCategories": []

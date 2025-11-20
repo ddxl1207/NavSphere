@@ -198,6 +198,14 @@
           "description": "",
           "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
           "enabled": true
+        },
+        {
+          "id": "1763656908607",
+          "title": "星惠花流量后台",
+          "href": "https://hyl.console.yuchenglan.cn/login?redirect=%2Findex",
+          "description": "",
+          "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
+          "enabled": true
         }
       ],
       "subCategories": []

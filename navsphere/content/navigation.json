@@ -206,6 +206,14 @@
           "description": "",
           "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
           "enabled": true
+        },
+        {
+          "id": "1763656957093",
+          "title": "优信花后台",
+          "href": "https://admin.hxzhgg.com/login?redirect=CenterList",
+          "description": "",
+          "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
+          "enabled": true
         }
       ],
       "subCategories": []

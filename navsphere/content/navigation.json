@@ -230,6 +230,14 @@
           "description": "",
           "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
           "enabled": true
+        },
+        {
+          "id": "1763657032828",
+          "title": "金享融后台",
+          "href": "https://jxr-console.jydnf.cn/login?redirect=%2Findex",
+          "description": "",
+          "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
+          "enabled": true
         }
       ],
       "subCategories": []

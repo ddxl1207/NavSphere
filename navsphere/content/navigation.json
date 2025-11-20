@@ -190,6 +190,14 @@
           "description": "",
           "icon": "https://youke1.picui.cn/s1/2025/11/03/6907998001da3.jpg",
           "enabled": true
+        },
+        {
+          "id": "1763656849054",
+          "title": "财倍倍流量后台",
+          "href": "https://console.cbbsf.cn/login?redirect=%2Findex",
+          "description": "",
+          "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
+          "enabled": true
         }
       ],
       "subCategories": []

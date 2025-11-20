@@ -125,6 +125,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1763654753480",
+      "title": "其他",
+      "icon": "LayoutList",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }

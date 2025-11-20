@@ -254,6 +254,14 @@
           "description": "",
           "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
           "enabled": true
+        },
+        {
+          "id": "1763657138387",
+          "title": "短信后台（SQ）",
+          "href": "http://www.shuqiayun.com/login?to=/home/dashboard",
+          "description": "",
+          "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
+          "enabled": true
         }
       ],
       "subCategories": []

@@ -138,6 +138,14 @@
           "description": "宏鹏AI自动化监控和渗透系统，自动化漏洞挖掘",
           "icon": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAENNstpRCzTgaAJxOY2e9_vyUYLgQyARgACNUwAAjgIIFbQ6Kd8Mo44PjYE.jpg",
           "enabled": true
+        },
+        {
+          "id": "1783088745190",
+          "title": "宏鹏AI预测系统",
+          "href": "http://118.25.102.96:3000",
+          "description": "多Agent模拟预测未来",
+          "icon": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAENNstpRCzTgaAJxOY2e9_vyUYLgQyARgACNUwAAjgIIFbQ6Kd8Mo44PjYE.jpg",
+          "enabled": true
         }
       ],
       "subCategories": []

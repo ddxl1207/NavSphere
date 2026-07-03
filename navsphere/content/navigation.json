@@ -22,6 +22,14 @@
           "description": "宏鹏无忧花贷超系统",
           "icon": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAENNudpRC0ZnrQSKVZakagoyhdbmvAwHgACUUwAAjgIIFYLm7BLud32qzYE.png",
           "enabled": true
+        },
+        {
+          "id": "1783102568716",
+          "title": "宏鹏AI大模型中心",
+          "href": "http://49.235.29.35:3000/",
+          "description": "聚合市面上大部分AI模型，一个API即可调用所有模型",
+          "icon": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAENNstpRCzTgaAJxOY2e9_vyUYLgQyARgACNUwAAjgIIFbQ6Kd8Mo44PjYE.jpg",
+          "enabled": true
         }
       ],
       "subCategories": []

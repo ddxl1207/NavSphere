@@ -152,14 +152,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1763656704889",
-          "title": "车抵流量后台",
-          "href": "http://119.29.198.42/mall/login/index",
-          "description": "",
-          "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
-          "enabled": true
-        },
-        {
           "id": "1763656752895",
           "title": "风控查询后台",
           "href": "https://search.xcfk0001.cn/login.html",

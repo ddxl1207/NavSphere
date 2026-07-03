@@ -140,14 +140,6 @@
           "description": "宏鹏导航站后台",
           "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
           "enabled": true
-        },
-        {
-          "id": "1763654866253",
-          "title": "1Panel面板",
-          "href": "http://49.235.29.35:8090/tencentcloud",
-          "description": "宏鹏内部腾讯云服务器1Panel面板",
-          "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
-          "enabled": true
         }
       ],
       "subCategories": []

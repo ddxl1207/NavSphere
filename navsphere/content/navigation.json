@@ -30,6 +30,14 @@
           "description": "宏鹏无忧花贷超系统",
           "icon": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAENNudpRC0ZnrQSKVZakagoyhdbmvAwHgACUUwAAjgIIFYLm7BLud32qzYE.png",
           "enabled": true
+        },
+        {
+          "id": "1783102617215",
+          "title": "宏鹏AI智能员工中心",
+          "href": "http://150.158.128.41:18789",
+          "description": "自动化管理独立数字员工集群",
+          "icon": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAENNstpRCzTgaAJxOY2e9_vyUYLgQyARgACNUwAAjgIIFbQ6Kd8Mo44PjYE.jpg",
+          "enabled": true
         }
       ],
       "subCategories": []

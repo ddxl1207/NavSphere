@@ -151,6 +151,15 @@
       "subCategories": []
     },
     {
+      "id": "1783088877420",
+      "title": "AI量化",
+      "icon": "Search",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1763654753480",
       "title": "其他",
       "icon": "LayoutList",
@@ -166,15 +175,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1783088877420",
-      "title": "AI量化",
-      "icon": "Search",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]

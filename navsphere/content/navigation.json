@@ -100,14 +100,6 @@
           "enabled": true
         },
         {
-          "id": "1762014483247",
-          "title": "N8N自动化系统",
-          "href": "https://n8n-wrbanwfu.ap-northeast-1.clawcloudrun.com/signin?redirect=%252Fworkflow%252Fnew",
-          "description": "N8N，万物皆可自动化",
-          "icon": "https://youke1.picui.cn/s1/2025/11/02/690634dfabec9.png",
-          "enabled": true
-        },
-        {
           "id": "1762106041635",
           "title": "宏鹏AI写作系统（后台）",
           "href": "https://write2.aijzdi.com/admin/login",
@@ -135,7 +127,7 @@
       "items": [
         {
           "id": "1763654760335",
-          "title": "导航站管理",
+          "title": "导航站后台",
           "href": "https://navsphere-96i.pages.dev/auth/signin?callbackUrl=https%3A%2F%2Fhongpeng.ggff.net%2Fadmin",
           "description": "宏鹏导航站后台",
           "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",

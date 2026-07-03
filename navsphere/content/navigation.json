@@ -85,6 +85,24 @@
       "subCategories": []
     },
     {
+      "id": "1783088877420",
+      "title": "AI量化",
+      "icon": "Search",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1783089007000",
+          "title": "AI加密货币量化",
+          "href": "http://111.231.51.209:5557",
+          "description": "加密货币监控与自动交易系统",
+          "icon": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAENNstpRCzTgaAJxOY2e9_vyUYLgQyARgACNUwAAjgIIFbQ6Kd8Mo44PjYE.jpg",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1761317102081",
       "title": "AI其他",
       "icon": "Brain",
@@ -152,24 +170,6 @@
           "title": "宏鹏智能体集群",
           "href": "https://hongpengai.nuwax.com/login?redirect=https%3A%2F%2Fhongpengai.nuwax.com%2F",
           "description": "具备智能体开发，AI自动化远程电脑管理，SKILLS技能中心，MCP自动工具中心，知识库，工作流，等AI功能，可搭建自动化图片和视频生成工作流，智能客服系统等，内置大量可直接使用的模板，可接入微信，企微，钉钉，飞书等APP，无缝聊天式使用",
-          "icon": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAENNstpRCzTgaAJxOY2e9_vyUYLgQyARgACNUwAAjgIIFbQ6Kd8Mo44PjYE.jpg",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
-      "id": "1783088877420",
-      "title": "AI量化",
-      "icon": "Search",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1783089007000",
-          "title": "AI加密货币量化",
-          "href": "http://111.231.51.209:5557",
-          "description": "加密货币监控与自动交易系统",
           "icon": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAENNstpRCzTgaAJxOY2e9_vyUYLgQyARgACNUwAAjgIIFbQ6Kd8Mo44PjYE.jpg",
           "enabled": true
         }

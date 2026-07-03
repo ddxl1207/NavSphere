@@ -22,14 +22,6 @@
           "description": "宏鹏无忧花贷超系统",
           "icon": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAENNudpRC0ZnrQSKVZakagoyhdbmvAwHgACUUwAAjgIIFYLm7BLud32qzYE.png",
           "enabled": true
-        },
-        {
-          "id": "1763657498983",
-          "title": "万通后台",
-          "href": "https://admin.wantongjr.top/4krk23taxxy4/#/login?redirect=%2Fdaichaotongji%2Findex",
-          "description": "",
-          "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
-          "enabled": true
         }
       ],
       "subCategories": []

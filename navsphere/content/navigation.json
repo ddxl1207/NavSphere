@@ -38,6 +38,14 @@
           "description": "宏鹏无忧花贷超系统",
           "icon": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAENNudpRC0ZnrQSKVZakagoyhdbmvAwHgACUUwAAjgIIFYLm7BLud32qzYE.png",
           "enabled": true
+        },
+        {
+          "id": "1783102667983",
+          "title": "宏鹏AI生产力平台",
+          "href": "https://hongpengai.cc/",
+          "description": "宏鹏AI生产力平台",
+          "icon": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAENNstpRCzTgaAJxOY2e9_vyUYLgQyARgACNUwAAjgIIFbQ6Kd8Mo44PjYE.jpg",
+          "enabled": true
         }
       ],
       "subCategories": []

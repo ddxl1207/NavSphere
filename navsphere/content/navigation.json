@@ -130,6 +130,14 @@
           "description": "自动化管理独立数字员工集群",
           "icon": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAENNstpRCzTgaAJxOY2e9_vyUYLgQyARgACNUwAAjgIIFbQ6Kd8Mo44PjYE.jpg",
           "enabled": true
+        },
+        {
+          "id": "1783088657923",
+          "title": "宏鹏AI自动渗透系统（待完善）",
+          "href": "http://118.25.102.96:8000",
+          "description": "宏鹏AI自动化监控和渗透系统，自动化漏洞挖掘",
+          "icon": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAENNstpRCzTgaAJxOY2e9_vyUYLgQyARgACNUwAAjgIIFbQ6Kd8Mo44PjYE.jpg",
+          "enabled": true
         }
       ],
       "subCategories": []

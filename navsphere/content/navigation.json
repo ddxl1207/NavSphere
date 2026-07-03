@@ -148,14 +148,6 @@
           "description": "多Agent模拟预测未来",
           "icon": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAENNstpRCzTgaAJxOY2e9_vyUYLgQyARgACNUwAAjgIIFbQ6Kd8Mo44PjYE.jpg",
           "enabled": true
-        },
-        {
-          "id": "1783092287638",
-          "title": "宏鹏智能体集群",
-          "href": "https://hongpengai.nuwax.com/login?redirect=https%3A%2F%2Fhongpengai.nuwax.com%2F",
-          "description": "具备智能体开发，AI自动化远程电脑管理，SKILLS技能中心，MCP自动工具中心，知识库，工作流，等AI功能，可搭建自动化图片和视频生成工作流，智能客服系统等，内置大量可直接使用的模板，可接入微信，企微，钉钉，飞书等APP，无缝聊天式使用",
-          "icon": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAENNstpRCzTgaAJxOY2e9_vyUYLgQyARgACNUwAAjgIIFbQ6Kd8Mo44PjYE.jpg",
-          "enabled": true
         }
       ],
       "subCategories": []

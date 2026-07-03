@@ -169,15 +169,6 @@
       "subCategories": []
     },
     {
-      "id": "1763656698777",
-      "title": "流量后台",
-      "icon": "Network",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
       "id": "1783088877420",
       "title": "AI量化",
       "icon": "Search",

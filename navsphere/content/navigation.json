@@ -104,7 +104,7 @@
           "title": "宏鹏AI写作系统（后台）",
           "href": "https://write2.aijzdi.com/admin/login",
           "description": "宏鹏AI写作（小说）系统商业版（后台）",
-          "icon": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAENNstpRCzTgaAJxOY2e9_vyUYLgQyARgACNUwAAjgIIFbQ6Kd8Mo44PjYE.jpg",
+          "icon": "https://youke1.picui.cn/s1/2025/11/03/69079a1f544d9.png",
           "enabled": true
         },
         {
@@ -112,7 +112,7 @@
           "title": "宏鹏AI写作系统（商户端）",
           "href": "https://write2.aijzdi.com/shop/#/login?redirect=/novel/worddashboard",
           "description": "宏鹏AI写作（小说）系统（商户端）",
-          "icon": "https://youke1.picui.cn/s1/2025/11/03/69079a1f544d9.png",
+          "icon": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAENNstpRCzTgaAJxOY2e9_vyUYLgQyARgACNUwAAjgIIFbQ6Kd8Mo44PjYE.jpg",
           "enabled": true
         }
       ],

@@ -152,14 +152,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1763656987288",
-          "title": "仁天花后台",
-          "href": "https://business.yuntuling.com/user/login?redirect=%2Findex",
-          "description": "",
-          "icon": "https://youke1.picui.cn/s1/2025/10/24/68fb93bb522a6.png",
-          "enabled": true
-        },
-        {
           "id": "1763657007041",
           "title": "优融氪后台",
           "href": "https://console.cdhmc168.com/login?redirect=%2Findex",

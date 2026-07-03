@@ -24,14 +24,6 @@
           "enabled": true
         },
         {
-          "id": "1763654933807",
-          "title": "cordysCRM",
-          "href": "http://49.235.29.35:8081/#/login",
-          "description": "宏鹏cordysCRM系统",
-          "icon": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAENNstpRCzTgaAJxOY2e9_vyUYLgQyARgACNUwAAjgIIFbQ6Kd8Mo44PjYE.jpg",
-          "enabled": true
-        },
-        {
           "id": "1763654983009",
           "title": "SQLBot",
           "href": "http://49.235.29.35:8000/#/chat/index",

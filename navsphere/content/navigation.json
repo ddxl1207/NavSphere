@@ -156,7 +156,16 @@
       "icon": "Search",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1783089007000",
+          "title": "AI加密货币量化",
+          "href": "http://111.231.51.209:5557",
+          "description": "加密货币监控与自动交易系统",
+          "icon": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAENNstpRCzTgaAJxOY2e9_vyUYLgQyARgACNUwAAjgIIFbQ6Kd8Mo44PjYE.jpg",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
